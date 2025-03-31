@@ -1,0 +1,130 @@
+/*Matteus da Silva, March 30th, 2025*/
+body{
+    background-color:black;
+    font-family:Garamond;
+    color:white;
+}
+h1{
+    background-color:slategray;
+    font-size:70px;
+    font-weight:bold;
+}
+h2{ 
+    background-color:slategray;
+    font-size:45px;
+}
+h3{
+    font-size:20px;
+}
+p{
+    font-size:30px;
+}
+th{
+    font-size:40px;
+    padding:20px 80px;
+    background-color:slategray
+}
+td{
+    font-size:30px;
+}
+li{
+    font-size:30px;
+}
+.Genre{
+    background-color:darkslategray;
+}
+.Band{
+    background-color:darkred;
+}
+a:link{
+    color:red;
+}
+a:visited{
+    color:darkred;
+}
+a:hover{
+    color:lightcoral;
+}
+a:active{
+    color:pink;
+}
+#Thrash{
+    font-family:cursive;
+
+}
+.rightfloatphoto{
+    float:right;
+    width:30%;
+    padding:30px;
+}
+.leftfloatparagraph{
+    float:left;
+    width:60%;
+    padding:30px;
+}
+.afterfloat{
+    clear:both;
+}
+.rightfloatparagraph{
+    float:right;
+    width:60%;
+    padding:30px;
+}
+.leftfloatphoto{
+    float:left;
+    width:30%;
+    padding:30px;
+}
+#numetal{
+    font-family:sans-serif;
+    font-weight:900;
+}
+#freakonaleash{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    float:left;
+    width:100%;
+    text-align:center;
+    text-decoration:underline;
+    font-size:30px;
+    padding:20px;
+    line-height:1.5;
+}
+#rightfloatparagraphslipknot{
+    float:right;
+    width:40%;
+    padding-right:20%;
+    padding-left:0px;
+}
+#crowstory{
+    float:right;
+    width:15%;
+    padding:5px;
+    overflow:auto;
+    background-color:darkslategray;
+    position:relative;
+    bottom:450px;
+    height:450px;
+}
+#crowstory > p {
+    font-size:15px
+}
+#crowstory > h2 {
+    font-size:30px;
+    background-color:transparent;
+}
+#redtext{
+    color:red
+}
+#Progressive{
+    font-family:'Courier New', Courier, monospace;
+}
+#NWOBHM{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-variant:small-caps;
+    font-weight:900;
+}
+#Doom{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:900;
+}
