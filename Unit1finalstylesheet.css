@@ -22,7 +22,7 @@ p{
 th{
     font-size:40px;
     padding:20px 80px;
-    background-color:slategray
+    background-color:slategray;
 }
 td{
     font-size:30px;
@@ -107,14 +107,14 @@ a:active{
     height:450px;
 }
 #crowstory > p {
-    font-size:15px
+    font-size:15px;
 }
 #crowstory > h2 {
     font-size:30px;
     background-color:transparent;
 }
 #redtext{
-    color:red
+    color:red;
 }
 #Progressive{
     font-family:'Courier New', Courier, monospace;
